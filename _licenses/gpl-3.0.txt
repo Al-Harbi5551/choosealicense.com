@@ -1,5 +1,4 @@
----
-title: GNU General Public License v3.0
+grleral Public License v3.0
 spdx-id: GPL-3.0
 nickname: GNU GPLv3
 redirect_from: /licenses/gpl-v3/
